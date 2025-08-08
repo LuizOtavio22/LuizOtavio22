@@ -6,16 +6,16 @@ Me chamo Luiz Costa, estou no 4º período de **Sistemas de Informação** e sou
 
 Estou sempre em busca de aprimorar meus conhecimentos e aplicar o que aprendo em projetos práticos. Meu objetivo é crescer profissionalmente na área de tecnologia, atuando no desenvolvimento de sistemas e em soluções inovadoras que gerem impacto positivo.
 <p align="left">
-    <a href="www.linkedin.com/in/luiz-otávio-carvalho-costa">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
----
+  <a href="https://www.linkedin.com/in/luiz-otávio-carvalho-costa">
+    <img 
+        alt="LinkedIn" 
+        title="Meu LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
 
-### 🤖 Linguagens e Tecnologias
+
+🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
