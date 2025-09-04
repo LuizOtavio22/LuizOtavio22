@@ -68,7 +68,7 @@ Estou sempre em busca de aprimorar meus conhecimentos e aplicar o que aprendo em
 
 <br/>
 <br/>
-### 📊 Estatísticas
+ 📊 Estatísticas
 <p>
 <img 
     align="left" 
