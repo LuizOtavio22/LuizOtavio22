@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informação | Desenvolvedor em Formação`**
 
-Me chamo Luiz Costa, estou no 4º período de **Sistemas de Informação** e sou apaixonado por tecnologia e inovação. Durante minha formação, já tive contato com **Banco de Dados (básico), Python, Java, HTML, CSS, C** e conceitos de redes através da **Cisco Networking Academy**.
+Me chamo Luiz Costa, estou no 5º período de **Sistemas de Informação** e sou apaixonado por tecnologia e inovação. Durante minha formação, já tive contato com **Banco de Dados (básico), Python, Java, HTML, CSS, C** e conceitos de redes através da **Cisco Networking Academy**.
 
 Estou sempre em busca de aprimorar meus conhecimentos e aplicar o que aprendo em projetos práticos. Meu objetivo é crescer profissionalmente na área de tecnologia, atuando no desenvolvimento de sistemas e em soluções inovadoras que gerem impacto positivo.
 <p align="left">
