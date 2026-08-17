@@ -1,7 +1,7 @@
 <h1 align="center">Luiz Otávio Carvalho Costa</h1>
 
 <p align="center">
-  <b>Desenvolvedor</b> • Python · JavaScript · Linux<br/>
+  <b>Desenvolvedor</b> • Python · JavaScript · React<br/>
   <sub>Sistemas de Informação @ UNIVÁS · Pouso Alegre, MG</sub>
 </p>
 
@@ -22,9 +22,8 @@ Trabalho com tecnologia desde o suporte técnico e hoje meu foco é desenvolvime
 back-end em Python, front-end em React e tudo que envolve construir sistemas do zero:
 modelar o banco, escrever a lógica, montar a interface e colocar pra rodar.
 
-🐧 **Linux é meu ambiente.** Rodo um homelab em Fedora com stack completa em Docker,
-e é onde aprendo na prática sobre containers, redes e serviços — mexendo, quebrando
-e arrumando.
+Aprendo mexendo. Mantenho um homelab em Linux com serviços rodando em Docker, que é
+onde testo na prática o que ando estudando.
 
 🎓 Bacharelado em Sistemas de Informação (UNIVÁS) · Técnico em Informática (Senac Minas)
 
