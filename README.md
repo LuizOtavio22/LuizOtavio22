@@ -1,7 +1,7 @@
 <h1 align="center">Luiz Otávio Carvalho Costa</h1>
 
 <p align="center">
-  <b>Analista de Suporte Técnico</b> • Automação de Infraestrutura • Python & Linux<br/>
+  <b>Desenvolvedor</b> • Python · JavaScript · Linux<br/>
   <sub>Sistemas de Informação @ UNIVÁS · Pouso Alegre, MG</sub>
 </p>
 
@@ -18,15 +18,15 @@
 
 ### 👨‍💻 Sobre
 
-Atuo com suporte técnico e infraestrutura de TI — redes, servidores, Active Directory
-e ambientes de impressão corporativa. No dia a dia, transformo processo manual em
-automação: se dá pra resolver com um script, eu escrevo o script.
+Trabalho com tecnologia desde o suporte técnico e hoje meu foco é desenvolvimento —
+back-end em Python, front-end em React e tudo que envolve construir sistemas do zero:
+modelar o banco, escrever a lógica, montar a interface e colocar pra rodar.
 
-Meu foco atual é **Python aplicado a infraestrutura** — coleta de dados via SNMP,
-persistência em banco, dashboards e alertas automáticos. Também estudo desenvolvimento
-web com React e containerização com Docker.
+🐧 **Linux é meu ambiente.** Rodo um homelab em Fedora com stack completa em Docker,
+e é onde aprendo na prática sobre containers, redes e serviços — mexendo, quebrando
+e arrumando.
 
-🎓 Bacharelado em Sistemas de Informação (UNIVÁS) · Técnico em Informática (Senac Minas) · Cisco Networking Academy
+🎓 Bacharelado em Sistemas de Informação (UNIVÁS) · Técnico em Informática (Senac Minas)
 
 ---
 
@@ -40,7 +40,28 @@ web com React e containerização com Docker.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Projeto principal
+
+<a href="https://github.com/LuizOtavio22/Monitoramento-SNMP-Impressoras">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizOtavio22&repo=Monitoramento-SNMP-Impressoras&theme=tokyonight&hide_border=true" alt="Monitoramento SNMP"/>
+</a>
+
+Aplicação full-stack em Python que coleta telemetria de dispositivos de rede via SNMP,
+armazena o histórico em SQLite e gera um dashboard com os indicadores. Arquitetura MVC,
+com camadas separadas de serviço, modelo e visualização.
+
+---
+
+### 📈 Tecnologias mais usadas
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOtavio22&theme=tokyonight&layout=compact&hide_border=true&custom_title=Linguagens&langs_count=6" alt="Linguagens"/>
